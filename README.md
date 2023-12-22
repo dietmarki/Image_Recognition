@@ -1,6 +1,8 @@
 # Image_Recognition
 Image Recognition using Tensorflow...
 
+working in the area of deep learning...
+
 for using the data set (images of vehicles):
 download from Kaggle: --> https://www.kaggle.com/datasets/rishabkoul1/vechicle-dataset/data
 
