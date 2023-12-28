@@ -10,4 +10,4 @@ download from Kaggle: --> https://www.kaggle.com/datasets/rishabkoul1/vechicle-d
 2. Functional model from Keras with InceptionResNetV2 (best in comparison) (recognition_vehicle_Funk_02.ipynb)
 3. Sequential model from Keras → CNN (Convolutional Neural Network) with 2 layers (recognition_vehicle_Seq_01.ipynb)
 4. Sequential model from Keras → CNN (Convolutional Neural Network) with 1 layer (recognition_vehicle_Seq_02.ipynb)
-5. Function to test a Sequential model with all its different arguments (recognition_vehicle_Seq_02_comp.ipynb)
+5. Function to test a Sequential model with all its different arguments (recognition_vehicle_Seq_comp.ipynb)
